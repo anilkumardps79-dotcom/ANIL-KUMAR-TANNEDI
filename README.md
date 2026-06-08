@@ -1,6 +1,6 @@
-# Hi 👋, I'm Anil Kumar
+ Hi 👋, I'm Anil Kumar
 
-### CSE (AI & ML) Student | Aspiring Software Developer
+ CSE (AI & ML) Student | Aspiring Software Developer
 
 🌱 Currently learning:
 - Data Structures & Algorithms
@@ -8,35 +8,40 @@
 - Python
 - AI & Machine Learning
 
-## 💻 Tech Stack
+ 💻 Tech Stack
 
-### Programming Languages
+ Programming Languages
 - C
 - C++
 
-### Web Development
+ Web Development
 - HTML
 - CSS
 
-### Database
+ Database
 - SQL
 
-### Tools
+ Tools
 - Git
 - GitHub
 - VS Code
 
-### Currently Learning
+ Currently Learning
 - Data Structures & Algorithms
 - Artificial Intelligence
 - Machine Learning
 - python
 
-## Projects
+ 🚀 Projects
 
 - 🚆 Train Booking System (C++)
+  - Console-based train reservation system with ticket generation and pricing.
+
 - 📊 Data Structures Visualizer
-- 🤖 AI/ML Learning Projects
+  - Interactive website to visualize sorting and searching algorithms.
+
+- 🌐 Web Development Projects
+  - Responsive websites using HTML, CSS and JavaScript.
 
 ## Connect With Me
 
